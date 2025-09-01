@@ -1,0 +1,14 @@
+{
+    "name": "Buy Me a Coffee Landing Page",
+    "slogan": "Support Creators, One Coffee at a Time",
+    "description": "A beautiful, modern landing page template for creator support platforms. Features membership tiers, shop functionality, publishing tools, and comprehensive feature comparison. Perfect for building platforms where fans can support their favorite creators.",
+    "images": ["buymecoffee/screenshot.jpeg"],
+    "download_count": "0",
+    "tags": ["creator-support", "donations", "membership", "e-commerce", "landing-page"],
+    "like_count": "0",
+    "view_count": "0",
+    "created_at": "2024-12-19T12:00:00Z",
+    "updated_at": "2024-12-19T12:00:00Z",
+    "tech_stack": ["React 19", "TypeScript", "TailwindCSS v4", "Vite"],
+    "key_features": ["Coffee/Donation Support", "Membership Tiers", "Shop Integration", "Creator Publishing Tools", "Feature Comparison", "Responsive Design", "Modern UI Components", "Creator Analytics"]
+}

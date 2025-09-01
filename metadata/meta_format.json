@@ -1,0 +1,14 @@
+{
+    "name": "{name}",
+    "slogan": "{slogan}",
+    "description": "{description}",
+    "images": ["{name}/1.png"],
+    "download_count": "{download_count}",
+    "tags": ["{tags}"],
+    "like_count": "{like_count}",
+    "view_count": "{view_count}",
+    "created_at": "{created_at}",
+    "updated_at": "{updated_at}",
+    "tech_stack": ["{tech_stack}"],
+    "key_features": ["{key_features}"]
+}
