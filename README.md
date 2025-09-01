@@ -137,7 +137,7 @@ If you have questions or need help, please:
 
 - 🐛 [Report Bugs](../../issues)
 - 💡 [Request Features](../../issues)
-- 📧 [Contact Us](korbinzhao@gmail.com)
+- 📧 [Contact Us](mailto:korbinzhao@gmail.com)
 
 ## 🌟 Acknowledgments
 
