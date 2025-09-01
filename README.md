@@ -2,6 +2,12 @@
 
 > Modern Web Application Template Collection
 
+---
+
+> 🚀 **🔥 WEEKLY UPDATES 🔥** - New templates added every week! ⭐ Star this repo to stay updated with the latest releases.
+
+---
+
 A carefully crafted collection of high-quality landing page templates built with the latest tech stack. Each template is thoughtfully designed with modern UI/UX and complete functional components.
 
 ## 🚀 Features
@@ -33,7 +39,7 @@ A carefully crafted collection of high-quality landing page templates built with
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/vontext.templates.git
+git clone https://github.com/korbinjoe/vontext.templates.git
 cd vontext.templates
 ```
 
