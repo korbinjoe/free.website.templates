@@ -1,10 +1,10 @@
-# Free React Templates | Modern Landing Pages | TypeScript + TailwindCSS
+# Free OpenSource React Templates | Modern Landing Pages | TypeScript + TailwindCSS
 
-> **Free React Templates Collection** - Modern Web Application Templates for Developers
+> **Free OpenSource React Templates Collection** - Modern Web Application Templates for Developers
 
 ---
 
-> 🚀 **🔥 WEEKLY UPDATES 🔥** - New free React templates added every week! ⭐ Star this repo to stay updated with the latest releases.
+> 🚀 **🔥 WEEKLY UPDATES 🔥** - New free OpenSource React templates added every week! ⭐ Star this repo to stay updated with the latest releases.
 
 ---
 
