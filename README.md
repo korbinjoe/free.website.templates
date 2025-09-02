@@ -29,10 +29,12 @@ Perfect for developers looking for **free React templates**, **TypeScript templa
 
 ### 🎯 Available React Templates for Download
 
-| Free React Template | Template Type | Description | Tech Stack | Key Features |
-|---------------------|---------------|-------------|------------|--------------|
-| **[Buy Me a Coffee Template](templates/buymeacoffee/)** | **Creator Support Platform** | Free React template for creator support platforms with membership tiers, shop functionality, and publishing tools. Perfect for donation platforms and creator monetization | React 19 + TypeScript + TailwindCSS | ☕ Donation Support, 👥 Membership Tiers, 🛍️ E-commerce Shop, 📝 Publishing Tools, 📊 Feature Comparison |
-| **[Pirsch Analytics Template](templates/pirsch/)** | **Analytics Dashboard SaaS** | Free React analytics template with privacy-first design, dark theme, and interactive dashboard preview. Ideal for SaaS analytics platforms | React 19 + TypeScript + TailwindCSS + Lucide | 📊 Interactive Dashboard, 🔒 Privacy-First, ⚖️ GDPR Compliant, 📈 Data Visualization, 🌙 Dark Theme |
+> 💡 **Click on preview images** to view full-size screenshots
+
+| Preview | Free React Template | Template Type | Description | Tech Stack | Key Features |
+|---------|---------------------|---------------|-------------|------------|--------------|
+| [![Buy Me a Coffee Preview](metadata/buymecoffee/screenshot.png)](metadata/buymecoffee/screenshot.png) | **[Buy Me a Coffee Template](templates/buymeacoffee/)** | **Creator Support Platform** | Free React template for creator support platforms with membership tiers, shop functionality, and publishing tools. Perfect for donation platforms and creator monetization | React 19 + TypeScript + TailwindCSS | ☕ Donation Support, 👥 Membership Tiers, 🛍️ E-commerce Shop, 📝 Publishing Tools, 📊 Feature Comparison |
+| [![Pirsch Analytics Preview](metadata/pirsch/screenshot.png)](metadata/pirsch/screenshot.png) | **[Pirsch Analytics Template](templates/pirsch/)** | **Analytics Dashboard SaaS** | Free React analytics template with privacy-first design, dark theme, and interactive dashboard preview. Ideal for SaaS analytics platforms | React 19 + TypeScript + TailwindCSS + Lucide | 📊 Interactive Dashboard, 🔒 Privacy-First, ⚖️ GDPR Compliant, 📈 Data Visualization, 🌙 Dark Theme |
 
 ### 🏷️ Template Categories
 - **SaaS Templates**: Analytics, Dashboard, B2B platforms

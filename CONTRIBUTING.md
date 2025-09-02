@@ -101,7 +101,13 @@ Create metadata file at `metadata/your-template-name/meta.json`:
 - Save as `metadata/your-template-name/screenshot.png`
 - Show the template's main features and design
 
-#### Step 6: Template Documentation
+#### Step 6: Update Main README
+Add your template to the main README.md table:
+```markdown
+| [![Your Template Preview](metadata/your-template-name/screenshot.png)](metadata/your-template-name/screenshot.png) | **[Your Template Name](templates/your-template-name/)** | **Template Category** | Brief description | Tech Stack | Key Features |
+```
+
+#### Step 7: Template Documentation
 Create a comprehensive `README.md` in your template folder:
 ```markdown
 # Your Template Name
@@ -162,9 +168,11 @@ We welcome improvements to:
 - [ ] Accessibility best practices followed
 - [ ] Performance optimized
 - [ ] Documentation is complete
+- [ ] Screenshot added to metadata folder
+- [ ] Main README.md updated with template entry
 
 ### Pull Request Process
-1. **Update the main README.md** to include your template in the table
+1. **Template already added to main README.md** during development
 2. **Fill out the PR template** completely
 3. **Add screenshots** of your template
 4. **Write a clear description** of what your template does

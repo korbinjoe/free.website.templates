@@ -26,7 +26,8 @@ Please describe your React template or enhancement in detail:
 - [ ] Responsive design implemented
 - [ ] Clean, commented code
 - [ ] README.md included in template folder
-- [ ] Screenshot/preview image added
+- [ ] High-quality screenshot added to metadata folder
+- [ ] Main README.md updated with template entry (including preview image)
 - [ ] Metadata JSON file created
 - [ ] ESLint configuration included
 - [ ] All dependencies are up-to-date
