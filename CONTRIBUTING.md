@@ -41,8 +41,8 @@ git checkout -b feature/new-template-name
 
 #### Step 2: Create Your Template
 ```bash
-# Navigate to templates directory
-cd templates
+# Navigate to appropriate template category directory
+cd templates/landing  # or templates/dashboard, templates/ecommerce, etc.
 
 # Create your template folder
 mkdir your-template-name
@@ -57,7 +57,7 @@ npm install -D tailwindcss@next @tailwindcss/postcss autoprefixer
 #### Step 3: Template Structure
 Your template should follow this structure:
 ```
-templates/your-template-name/
+templates/[category]/your-template-name/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── Header.tsx
@@ -76,6 +76,13 @@ templates/your-template-name/
 ├── README.md              # Template documentation
 └── ...
 ```
+
+**Template Categories:**
+- `templates/landing/` - Landing pages, marketing sites
+- `templates/dashboard/` - Admin panels, analytics dashboards  
+- `templates/ecommerce/` - Online stores, product catalogs
+- `templates/portfolio/` - Personal sites, showcases
+- `templates/blog/` - Content sites, publishing platforms
 
 #### Step 4: Add Metadata
 Create metadata file at `metadata/your-template-name/meta.json`:
@@ -104,7 +111,12 @@ Create metadata file at `metadata/your-template-name/meta.json`:
 #### Step 6: Update Main README
 Add your template to the main README.md table:
 ```markdown
-| [![Your Template Preview](metadata/your-template-name/screenshot.png)](metadata/your-template-name/screenshot.png) | **[Your Template Name](templates/your-template-name/)** | **Template Category** | Brief description | Tech Stack | Key Features |
+| [![Your Template Preview](metadata/your-template-name/screenshot.png)](metadata/your-template-name/screenshot.png) | **[Your Template Name](templates/[category]/your-template-name/)** | **Template Category** | Brief description | Tech Stack | Key Features |
+```
+
+**Example for a landing page template:**
+```markdown
+| [![My App Preview](metadata/my-app/screenshot.png)](metadata/my-app/screenshot.png) | **[My App Template](templates/landing/my-app/)** | **SaaS Landing Page** | Modern SaaS landing page with pricing and features | React 19 + TypeScript + TailwindCSS | Authentication, Pricing Tables, Feature Showcase |
 ```
 
 #### Step 7: Template Documentation

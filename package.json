@@ -1,0 +1,29 @@
+{
+  "name": "vontext-templates",
+  "version": "1.0.0",
+  "description": "Free React Templates Collection - Modern Web Application Templates",
+  "private": true,
+  "scripts": {
+    "screenshot": "node scripts/auto-screenshot.js",
+    "screenshot:all": "node scripts/auto-screenshot.js all",
+    "screenshot:superwhisper": "node scripts/auto-screenshot.js superwhisper",
+    "screenshot:buymeacoffee": "node scripts/auto-screenshot.js buymeacoffee",
+    "screenshot:pirsch": "node scripts/auto-screenshot.js pirsch"
+  },
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  },
+  "keywords": [
+    "react-templates",
+    "typescript-templates",
+    "tailwindcss-templates",
+    "landing-pages",
+    "free-templates"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/korbinjoe/vontext.templates.git"
+  },
+  "author": "KorbinJoe",
+  "license": "MIT"
+}

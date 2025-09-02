@@ -1,0 +1,14 @@
+{
+    "name": "SuperWhisper Landing Page",
+    "slogan": "Voice to Text Like Magic",
+    "description": "A modern AI-focused landing page template perfect for SaaS applications, AI tools, and productivity software. Features a clean design with yellow accents, pricing tiers, interactive FAQ, and strong call-to-action sections. Built for transcription services, voice-to-text applications, and developer tools.",
+    "images": ["superwhisper/screenshot.png"],
+    "download_count": "0",
+    "tags": ["ai", "saas", "landing-page", "transcription", "voice-to-text", "productivity", "modern-ui"],
+    "like_count": "0",
+    "view_count": "0",
+    "created_at": "2024-12-19T12:00:00Z",
+    "updated_at": "2024-12-19T12:00:00Z",
+    "tech_stack": ["React 19", "TypeScript", "TailwindCSS v4", "Vite"],
+    "key_features": ["AI-Focused Design", "Interactive FAQ", "Pricing Tiers", "Yellow Accent Theme", "Mobile-First Responsive", "Call-to-Action Sections", "Modern UI Components", "TypeScript Support"]
+}

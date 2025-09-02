@@ -33,14 +33,25 @@ Perfect for developers looking for **free React templates**, **TypeScript templa
 
 | Preview | Free React Template | Template Type | Description | Tech Stack | Key Features |
 |---------|---------------------|---------------|-------------|------------|--------------|
-| [![Buy Me a Coffee Preview](metadata/buymecoffee/screenshot.png)](metadata/buymecoffee/screenshot.png) | **[Buy Me a Coffee Template](templates/buymeacoffee/)** | **Creator Support Platform** | Free React template for creator support platforms with membership tiers, shop functionality, and publishing tools. Perfect for donation platforms and creator monetization | React 19 + TypeScript + TailwindCSS | ☕ Donation Support, 👥 Membership Tiers, 🛍️ E-commerce Shop, 📝 Publishing Tools, 📊 Feature Comparison |
-| [![Pirsch Analytics Preview](metadata/pirsch/screenshot.png)](metadata/pirsch/screenshot.png) | **[Pirsch Analytics Template](templates/pirsch/)** | **Analytics Dashboard SaaS** | Free React analytics template with privacy-first design, dark theme, and interactive dashboard preview. Ideal for SaaS analytics platforms | React 19 + TypeScript + TailwindCSS + Lucide | 📊 Interactive Dashboard, 🔒 Privacy-First, ⚖️ GDPR Compliant, 📈 Data Visualization, 🌙 Dark Theme |
+| [![Buy Me a Coffee Preview](metadata/buymecoffee/screenshot.png)](metadata/buymecoffee/screenshot.png) | **[Buy Me a Coffee Template](templates/landing/buymeacoffee/)** | **Creator Support Platform** | Free React template for creator support platforms with membership tiers, shop functionality, and publishing tools. Perfect for donation platforms and creator monetization | React 19 + TypeScript + TailwindCSS | ☕ Donation Support, 👥 Membership Tiers, 🛍️ E-commerce Shop, 📝 Publishing Tools, 📊 Feature Comparison |
+| [![Pirsch Analytics Preview](metadata/pirsch/screenshot.png)](metadata/pirsch/screenshot.png) | **[Pirsch Analytics Template](templates/landing/pirsch/)** | **Analytics Dashboard SaaS** | Free React analytics template with privacy-first design, dark theme, and interactive dashboard preview. Ideal for SaaS analytics platforms | React 19 + TypeScript + TailwindCSS + Lucide | 📊 Interactive Dashboard, 🔒 Privacy-First, ⚖️ GDPR Compliant, 📈 Data Visualization, 🌙 Dark Theme |
+| [![SuperWhisper Preview](metadata/superwhisper/screenshot.png)](metadata/superwhisper/screenshot.png) | **[SuperWhisper Landing Page](templates/landing/superwhisper/)** | **AI Voice-to-Text SaaS** | Modern AI-focused landing page template perfect for transcription services, voice-to-text applications, and productivity tools. Features yellow accent design and interactive elements | React 19 + TypeScript + TailwindCSS | 🎤 AI-Focused Design, 💰 Pricing Tiers, ❓ Interactive FAQ, 📱 Mobile-First, 🎨 Yellow Theme, 🚀 Call-to-Action |
+| [![Localise Preview](metadata/localise/screenshot.png)](metadata/localise/screenshot.png) | **[Localise Landing Page](templates/landing/localise/)** | **Localization & i18n SaaS** | Professional template for localization and internationalization platforms with AI translation, team collaboration, and API integration features. Perfect for translation services | React 19 + TypeScript + TailwindCSS + Lucide | 🌍 AI Translation, 👥 Team Collaboration, 🔧 API Integration, 🔒 Enterprise Security, 📊 Real-time Sync, 🚀 Developer-Friendly |
 
-### 🏷️ Template Categories
-- **SaaS Templates**: Analytics, Dashboard, B2B platforms
-- **Creator Economy**: Donation platforms, Content creators, Membership sites
-- **Landing Page Templates**: Modern designs, Conversion-optimized
-- **E-commerce Templates**: Shop integration, Payment systems
+### 🏷️ Template Categories & Directory Structure
+
+#### 📄 Landing Page Templates (`templates/landing/`)
+Current templates in this category:
+- **Creator Support Platforms**: Buy Me a Coffee template - donation and membership features
+- **SaaS Analytics Platforms**: Pirsch Analytics template - privacy-first analytics dashboard
+- **AI Voice-to-Text Platforms**: SuperWhisper template - AI transcription services with modern yellow theme
+- **Localization & i18n Platforms**: Localise template - translation management with team collaboration and API integration
+
+#### 🔮 Coming Soon Categories
+- **Dashboard Templates** (`templates/dashboard/`) - Admin panels, data visualization
+- **E-commerce Templates** (`templates/ecommerce/`) - Online stores, product catalogs  
+- **Portfolio Templates** (`templates/portfolio/`) - Personal sites, showcases
+- **Blog Templates** (`templates/blog/`) - Content management, publishing
 
 ## 🛠️ Modern Tech Stack - Built for Performance & Developer Experience
 
@@ -79,10 +90,16 @@ cd vontext.templates
 #### 2. Choose Your React Template
 ```bash
 # For Creator Support Platform (Buy Me a Coffee template)
-cd templates/buymeacoffee
+cd templates/landing/buymeacoffee
 
 # For Analytics Dashboard (Pirsch Analytics template)  
-cd templates/pirsch
+cd templates/landing/pirsch
+
+# For AI Voice-to-Text Platform (SuperWhisper template)
+cd templates/landing/superwhisper
+
+# For Localization & i18n Platform (Localise template)
+cd templates/landing/localise
 ```
 
 #### 3. Install Dependencies (React 19 + TypeScript)
@@ -120,20 +137,21 @@ npm run preview
 ```
 vontext.templates/
 ├── templates/                    # Template directory
-│   ├── buymeacoffee/            # Buy Me a Coffee template
-│   │   ├── src/
-│   │   │   ├── components/      # React components
-│   │   │   ├── App.tsx         # Main app component
-│   │   │   └── main.tsx        # Entry point
-│   │   ├── package.json        # Dependencies
-│   │   └── ...
-│   └── pirsch/                  # Pirsch Analytics template
-│       ├── src/
-│       │   ├── components/      # React components
-│       │   ├── App.tsx         # Main app component
-│       │   └── main.tsx        # Entry point
-│       ├── package.json        # Dependencies
-│       └── ...
+│   └── landing/                 # Landing page templates category
+│       ├── buymeacoffee/        # Buy Me a Coffee template
+│       │   ├── src/
+│       │   │   ├── components/  # React components
+│       │   │   ├── App.tsx     # Main app component
+│       │   │   └── main.tsx    # Entry point
+│       │   ├── package.json    # Dependencies
+│       │   └── ...
+│       └── pirsch/              # Pirsch Analytics template
+│           ├── src/
+│           │   ├── components/  # React components
+│           │   ├── App.tsx     # Main app component
+│           │   └── main.tsx    # Entry point
+│           ├── package.json    # Dependencies
+│           └── ...
 ├── metadata/                    # Template metadata
 │   ├── buymecoffee/
 │   │   ├── meta.json           # Template info
@@ -143,6 +161,8 @@ vontext.templates/
 │   │   └── screenshot.png      # Preview image
 │   └── meta_format.json        # Metadata format spec
 ├── downloads/                   # Download packages
+├── CONTRIBUTING.md              # Contribution guidelines
+├── GITHUB_SEO_GUIDE.md          # SEO optimization guide
 └── README.md                   # Project documentation
 ```
 

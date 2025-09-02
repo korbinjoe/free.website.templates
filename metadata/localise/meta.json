@@ -1,0 +1,14 @@
+{
+    "name": "Localise Landing Page",
+    "slogan": "Reach Global, Speak Local",
+    "description": "A modern, professional landing page template for localization and internationalization SaaS platforms. Features comprehensive localization management, AI-powered translation, team collaboration, and developer-friendly API integration. Perfect for translation services, global content management platforms, and cross-cultural communication tools.",
+    "images": ["localise/screenshot.png"],
+    "download_count": "0",
+    "tags": ["localization", "internationalization", "translation", "saas", "api", "team-collaboration", "ai-translation"],
+    "like_count": "0",
+    "view_count": "0",
+    "created_at": "2024-12-19T12:00:00Z",
+    "updated_at": "2024-12-19T12:00:00Z",
+    "tech_stack": ["React 19", "TypeScript", "TailwindCSS v4", "Vite", "Lucide React"],
+    "key_features": ["AI-Powered Translation", "Team Collaboration", "API Integration", "Global Reach", "Enterprise Security", "Real-time Sync", "Developer-Friendly", "Professional Design"]
+}
