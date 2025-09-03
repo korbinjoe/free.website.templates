@@ -37,6 +37,7 @@ Perfect for developers looking for **free React templates**, **TypeScript templa
 | [![Pirsch Analytics Preview](metadata/pirsch/screenshot.png)](metadata/pirsch/screenshot.png) | **[Pirsch Analytics Template](templates/landing/pirsch/)** | **Analytics Dashboard SaaS** | Free React analytics template with privacy-first design, dark theme, and interactive dashboard preview. Ideal for SaaS analytics platforms | React 19 + TypeScript + TailwindCSS + Lucide | 📊 Interactive Dashboard, 🔒 Privacy-First, ⚖️ GDPR Compliant, 📈 Data Visualization, 🌙 Dark Theme |
 | [![SuperWhisper Preview](metadata/superwhisper/screenshot.png)](metadata/superwhisper/screenshot.png) | **[SuperWhisper Landing Page](templates/landing/superwhisper/)** | **AI Voice-to-Text SaaS** | Modern AI-focused landing page template perfect for transcription services, voice-to-text applications, and productivity tools. Features yellow accent design and interactive elements | React 19 + TypeScript + TailwindCSS | 🎤 AI-Focused Design, 💰 Pricing Tiers, ❓ Interactive FAQ, 📱 Mobile-First, 🎨 Yellow Theme, 🚀 Call-to-Action |
 | [![Localise Preview](metadata/localise/screenshot.png)](metadata/localise/screenshot.png) | **[Localise Landing Page](templates/landing/localise/)** | **Localization & i18n SaaS** | Professional template for localization and internationalization platforms with AI translation, team collaboration, and API integration features. Perfect for translation services | React 19 + TypeScript + TailwindCSS + Lucide | 🌍 AI Translation, 👥 Team Collaboration, 🔧 API Integration, 🔒 Enterprise Security, 📊 Real-time Sync, 🚀 Developer-Friendly |
+| [![Figma Plugins Preview](metadata/figma-plugins/screenshot.png)](metadata/figma-plugins/screenshot.png) | **[Figma Plugins Landing Page](templates/landing/figma-plugins/)** | **Design Tools & Plugins** | Modern, vibrant template inspired by ‹div›RIOTS for showcasing Figma plugins and design tools. Features plugin categories, search, stats display, and beautiful gradient designs | React 19 + TypeScript + TailwindCSS + Lucide | 🎨 Plugin Showcase, 🔍 Search & Filter, 📊 Stats Display, 🌈 Gradient Design, ⚡ Interactive Elements, 📂 Category Organization |
 
 ### 🏷️ Template Categories & Directory Structure
 
@@ -46,6 +47,7 @@ Current templates in this category:
 - **SaaS Analytics Platforms**: Pirsch Analytics template - privacy-first analytics dashboard
 - **AI Voice-to-Text Platforms**: SuperWhisper template - AI transcription services with modern yellow theme
 - **Localization & i18n Platforms**: Localise template - translation management with team collaboration and API integration
+- **Design Tools & Plugins**: Figma Plugins template - plugin showcases with gradient designs and interactive elements
 
 #### 🔮 Coming Soon Categories
 - **Dashboard Templates** (`templates/dashboard/`) - Admin panels, data visualization
@@ -100,6 +102,9 @@ cd templates/landing/superwhisper
 
 # For Localization & i18n Platform (Localise template)
 cd templates/landing/localise
+
+# For Design Tools & Plugins (Figma Plugins template)
+cd templates/landing/figma-plugins
 ```
 
 #### 3. Install Dependencies (React 19 + TypeScript)
