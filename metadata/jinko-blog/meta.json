@@ -1,0 +1,72 @@
+{
+  "name": "Jinko Blog",
+  "description": "现代化个人博客模板，基于Jinko主题设计，支持文章展示、分类管理、社交分享等功能",
+  "category": "Blog",
+  "tags": ["blog", "personal", "content", "social", "responsive"],
+  "author": "Vontext Templates",
+  "version": "1.0.0",
+  "created": "2025-09-04",
+  "updated": "2025-09-04",
+  "demo_url": "https://vontext-jinko-blog.vercel.app",
+  "source_url": "https://github.com/vontext/templates/tree/main/templates/landing/jinko-blog",
+  "download_url": "https://github.com/vontext/templates/releases/download/v1.0.0/vontext-jinko-blog.zip",
+  "preview_image": "screenshot.png",
+  "tech_stack": {
+    "frontend": "React 19",
+    "styling": "TailwindCSS v4",
+    "typescript": true,
+    "build_tool": "Vite",
+    "icons": "Lucide React"
+  },
+  "features": [
+    "个人博客展示",
+    "响应式设计",
+    "文章分类管理",
+    "社交媒体集成",
+    "搜索功能",
+    "分页导航",
+    "侧边栏内容",
+    "邮件订阅",
+    "个性化品牌",
+    "现代化UI设计"
+  ],
+  "design_inspiration": {
+    "source": "3forty.media Jinko Theme",
+    "url": "https://www.3forty.media/jinko/demo/",
+    "style": "Personal Blog & Content Creator"
+  },
+  "colors": {
+    "primary": "Pink/Rose",
+    "secondary": "Orange/Amber", 
+    "accent": "Purple",
+    "neutral": "Gray"
+  },
+  "sections": [
+    {
+      "name": "Header",
+      "description": "导航栏和搜索功能"
+    },
+    {
+      "name": "Hero",
+      "description": "个人简介和社交链接"
+    },
+    {
+      "name": "Blog Grid",
+      "description": "文章卡片展示区域"
+    },
+    {
+      "name": "Sidebar",
+      "description": "热门文章和精选内容"
+    },
+    {
+      "name": "Footer",
+      "description": "分类链接和订阅表单"
+    }
+  ],
+  "customization": {
+    "colors": "支持主题色彩定制",
+    "fonts": "Inter + Playfair Display",
+    "content": "完全可自定义内容和数据",
+    "layout": "响应式栅格布局"
+  }
+}

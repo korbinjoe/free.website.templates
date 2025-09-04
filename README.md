@@ -38,6 +38,7 @@ Perfect for developers looking for **free React templates**, **TypeScript templa
 | [![SuperWhisper Preview](metadata/superwhisper/screenshot.png)](metadata/superwhisper/screenshot.png) | **[SuperWhisper Landing Page](templates/landing/superwhisper/)** | **AI Voice-to-Text SaaS** | Modern AI-focused landing page template perfect for transcription services, voice-to-text applications, and productivity tools. Features yellow accent design and interactive elements | React 19 + TypeScript + TailwindCSS | 🎤 AI-Focused Design, 💰 Pricing Tiers, ❓ Interactive FAQ, 📱 Mobile-First, 🎨 Yellow Theme, 🚀 Call-to-Action |
 | [![Localise Preview](metadata/localise/screenshot.png)](metadata/localise/screenshot.png) | **[Localise Landing Page](templates/landing/localise/)** | **Localization & i18n SaaS** | Professional template for localization and internationalization platforms with AI translation, team collaboration, and API integration features. Perfect for translation services | React 19 + TypeScript + TailwindCSS + Lucide | 🌍 AI Translation, 👥 Team Collaboration, 🔧 API Integration, 🔒 Enterprise Security, 📊 Real-time Sync, 🚀 Developer-Friendly |
 | [![Figma Plugins Preview](metadata/figma-plugins/screenshot.png)](metadata/figma-plugins/screenshot.png) | **[Figma Plugins Landing Page](templates/landing/figma-plugins/)** | **Design Tools & Plugins** | Modern, vibrant template inspired by ‹div›RIOTS for showcasing Figma plugins and design tools. Features plugin categories, search, stats display, and beautiful gradient designs | React 19 + TypeScript + TailwindCSS + Lucide | 🎨 Plugin Showcase, 🔍 Search & Filter, 📊 Stats Display, 🌈 Gradient Design, ⚡ Interactive Elements, 📂 Category Organization |
+|[![Jinko Blog Preview](metadata/jinko-blog/screenshot.png)](metadata/jinko-blog/screenshot.png) | **[Jinko Blog Template](templates/landing/jinko-blog/)** | **Personal Blog & Content** | Modern personal blog template inspired by Jinko theme design. Perfect for content creators, writers, and personal branding with article management, social sharing, and sidebar features | React 19 + TypeScript + TailwindCSS + Lucide | 🎭 Personal Branding, 📰 Article Cards, 📊 Trending Posts, 🔍 Search & Filter, 📱 Social Sharing, 📧 Newsletter Signup |
 
 ### 🏷️ Template Categories & Directory Structure
 
@@ -48,6 +49,7 @@ Current templates in this category:
 - **AI Voice-to-Text Platforms**: SuperWhisper template - AI transcription services with modern yellow theme
 - **Localization & i18n Platforms**: Localise template - translation management with team collaboration and API integration
 - **Design Tools & Plugins**: Figma Plugins template - plugin showcases with gradient designs and interactive elements
+- **Personal Blog & Content**: Jinko Blog template - personal branding and article management with social features
 
 #### 🔮 Coming Soon Categories
 - **Dashboard Templates** (`templates/dashboard/`) - Admin panels, data visualization

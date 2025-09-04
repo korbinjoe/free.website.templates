@@ -7,8 +7,8 @@
     "tags": ["figma", "plugins", "design-tools", "saas", "marketplace", "gradients", "interactive", "showcase"],
     "like_count": "0",
     "view_count": "0",
-    "created_at": "2024-12-19T14:00:00Z",
-    "updated_at": "2024-12-19T14:00:00Z",
+    "created": "2025-09-03",
+    "updated": "2025-09-03",
     "tech_stack": ["React 19", "TypeScript", "TailwindCSS v4", "Vite", "Lucide React"],
     "key_features": ["Plugin Showcase", "Search & Filter", "Stats Display", "Gradient Design", "Interactive Elements", "Category Organization", "Newsletter Signup", "Social Integration"]
 }
