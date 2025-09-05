@@ -1,0 +1,80 @@
+{
+  "name": "TailwindCSS Landing Page",
+  "description": "完整的TailwindCSS官网风格模板，包含代码示例展示、功能特性介绍、组件预览、性能数据和快速入门指南",
+  "category": "CSS Framework",
+  "tags": ["css-framework", "utility-first", "components", "documentation", "developer-tools", "responsive"],
+  "author": "Vontext Templates",
+  "version": "1.0.0",
+  "created": "2025-09-05",
+  "updated": "2025-09-05",
+  "demo_url": "https://vontext-tailwindcss.vercel.app",
+  "source_url": "https://github.com/vontext/templates/tree/main/templates/landing/tailwindcss",
+  "download_url": "https://github.com/vontext/templates/releases/download/v1.0.0/vontext-tailwindcss.zip",
+  "preview_image": "screenshot.png",
+  "tech_stack": {
+    "frontend": "React 19",
+    "styling": "TailwindCSS v4",
+    "typescript": true,
+    "build_tool": "Vite",
+    "icons": "Lucide React"
+  },
+  "features": [
+    "实时代码示例展示",
+    "交互式功能特性演示",
+    "组件库预览和复制",
+    "性能数据可视化",
+    "分步骤安装指南",
+    "响应式设计布局",
+    "代码语法高亮",
+    "复制粘贴功能",
+    "渐变动画效果",
+    "现代化UI设计"
+  ],
+  "design_inspiration": {
+    "source": "TailwindCSS Official Website",
+    "url": "https://tailwindcss.com/",
+    "style": "CSS Framework Landing Page"
+  },
+  "colors": {
+    "primary": "Blue",
+    "secondary": "Cyan",
+    "accent": "Slate Gray",
+    "neutral": "White"
+  },
+  "sections": [
+    {
+      "name": "Header",
+      "description": "响应式导航栏和CTA按钮"
+    },
+    {
+      "name": "Hero",
+      "description": "主视觉区域和代码示例展示"
+    },
+    {
+      "name": "Features",
+      "description": "交互式功能特性展示"
+    },
+    {
+      "name": "Components",
+      "description": "组件库预览和代码复制"
+    },
+    {
+      "name": "Performance",
+      "description": "性能数据和对比分析"
+    },
+    {
+      "name": "Getting Started",
+      "description": "分步骤安装和配置指南"
+    },
+    {
+      "name": "Footer",
+      "description": "链接导航和社交媒体"
+    }
+  ],
+  "customization": {
+    "colors": "支持完整主题色彩定制",
+    "fonts": "Inter + Fira Code",
+    "content": "模块化组件结构，易于定制",
+    "layout": "响应式栅格系统"
+  }
+}
