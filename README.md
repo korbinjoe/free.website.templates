@@ -40,6 +40,7 @@ Perfect for developers looking for **free React templates**, **TypeScript templa
 | [![Figma Plugins Preview](metadata/figma-plugins/screenshot.png)](metadata/figma-plugins/screenshot.png) | **[Figma Plugins Landing Page](templates/landing/figma-plugins/)** | **Design Tools & Plugins** | Modern, vibrant template inspired by ‹div›RIOTS for showcasing Figma plugins and design tools. Features plugin categories, search, stats display, and beautiful gradient designs | React 19 + TypeScript + TailwindCSS + Lucide | 🎨 Plugin Showcase, 🔍 Search & Filter, 📊 Stats Display, 🌈 Gradient Design, ⚡ Interactive Elements, 📂 Category Organization |
 |[![Jinko Blog Preview](metadata/jinko-blog/screenshot.png)](metadata/jinko-blog/screenshot.png) | **[Jinko Blog Template](templates/landing/jinko-blog/)** | **Personal Blog & Content** | Modern personal blog template inspired by Jinko theme design. Perfect for content creators, writers, and personal branding with article management, social sharing, and sidebar features | React 19 + TypeScript + TailwindCSS + Lucide | 🎭 Personal Branding, 📰 Article Cards, 📊 Trending Posts, 🔍 Search & Filter, 📱 Social Sharing, 📧 Newsletter Signup |
 | [![TailwindCSS Preview](metadata/tailwindcss/screenshot.png)](metadata/tailwindcss/screenshot.png) | **[TailwindCSS Landing Page](templates/landing/tailwindcss/)** | **CSS Framework** | Complete TailwindCSS official website-style template with interactive code examples, feature demonstrations, component showcase, performance metrics, and step-by-step installation guide | React 19 + TypeScript + TailwindCSS + Lucide | 💻 Live Code Examples, 🎯 Interactive Features, 🧩 Component Library, 📊 Performance Data, 📚 Installation Guide, ✨ Modern UI |
+| [![AI Meets Accounting Preview](metadata/accounting-ai/screenshot.png)](metadata/accounting-ai/screenshot.png) | **[AI Meets Accounting](templates/landing/accounting-ai/)** | **AI & Financial SaaS** | Professional AI-powered accounting software landing page with real-time analytics, interactive dashboards, customer testimonials, and flexible pricing plans. Perfect for fintech and accounting SaaS | React 19 + TypeScript + TailwindCSS + Lucide | 🤖 AI Automation, 📊 Real-time Analytics, 🎯 Interactive Features, 💼 Financial Dashboard, 🌟 Customer Stories, 💰 Flexible Pricing |
 
 ### 🏷️ Template Categories & Directory Structure
 
@@ -52,6 +53,7 @@ Current templates in this category:
 - **Design Tools & Plugins**: Figma Plugins template - plugin showcases with gradient designs and interactive elements
 - **Personal Blog & Content**: Jinko Blog template - personal branding and article management with social features
 - **CSS Framework & Developer Tools**: TailwindCSS template - complete CSS framework landing page with interactive code examples and documentation
+- **AI & Financial SaaS**: AI Meets Accounting template - intelligent accounting software with real-time analytics and automation features
 
 #### 🔮 Coming Soon Categories
 - **Dashboard Templates** (`templates/dashboard/`) - Admin panels, data visualization

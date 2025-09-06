@@ -1,0 +1,80 @@
+{
+  "name": "AI Meets Accounting",
+  "description": "智能会计AI软件着陆页模板，包含数据可视化、实时分析、客户案例展示和灵活定价方案",
+  "category": "SaaS",
+  "tags": ["accounting", "ai", "fintech", "saas", "analytics", "automation", "financial"],
+  "author": "Vontext Templates",
+  "version": "1.0.0",
+  "created": "2025-09-06",
+  "updated": "2025-09-06",
+  "demo_url": "https://vontext-accounting-ai.vercel.app",
+  "source_url": "https://github.com/vontext/templates/tree/main/templates/landing/accounting-ai",
+  "download_url": "https://github.com/vontext/templates/releases/download/v1.0.0/vontext-accounting-ai.zip",
+  "preview_image": "screenshot.png",
+  "tech_stack": {
+    "frontend": "React 19",
+    "styling": "TailwindCSS v4",
+    "typescript": true,
+    "build_tool": "Vite",
+    "icons": "Lucide React"
+  },
+  "features": [
+    "AI驱动的自动化展示",
+    "实时财务数据分析",
+    "交互式功能演示",
+    "智能对账和报告",
+    "客户评价轮播展示",
+    "灵活定价方案",
+    "数据可视化图表",
+    "响应式设计布局",
+    "专业财务界面",
+    "现代化绿色主题"
+  ],
+  "design_inspiration": {
+    "source": "Professional Accounting Software",
+    "url": "Custom Design",
+    "style": "Financial SaaS Landing Page"
+  },
+  "colors": {
+    "primary": "Emerald Green",
+    "secondary": "Green",
+    "accent": "Slate Gray",
+    "neutral": "White"
+  },
+  "sections": [
+    {
+      "name": "Header",
+      "description": "导航栏和品牌标识"
+    },
+    {
+      "name": "Hero",
+      "description": "主要价值主张和产品预览"
+    },
+    {
+      "name": "Features",
+      "description": "交互式功能特性展示"
+    },
+    {
+      "name": "Analytics",
+      "description": "实时数据分析仪表板"
+    },
+    {
+      "name": "Testimonials",
+      "description": "客户成功案例和推荐"
+    },
+    {
+      "name": "Pricing",
+      "description": "定价方案和常见问题"
+    },
+    {
+      "name": "Footer",
+      "description": "联系信息和链接导航"
+    }
+  ],
+  "customization": {
+    "colors": "支持完整绿色系主题定制",
+    "fonts": "Inter字体系统",
+    "content": "完全可自定义数据和内容",
+    "layout": "模块化组件结构"
+  }
+}
